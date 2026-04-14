@@ -81,7 +81,7 @@ const HeroSection = () => {
         {/* Socials */}
         <div className="flex items-center justify-center gap-6">
           <a
-            href="https://linkedin.com/in/sahithijalaparti"
+            href="https://linkedin.com/in/sahithi-jalaparti-a7a331214/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"
@@ -92,7 +92,7 @@ const HeroSection = () => {
             </svg>
           </a>
           <a
-            href="https://github.com/sahithijalaparti"
+            href="https://github.com/percyjack123"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"
